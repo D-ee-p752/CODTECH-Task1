@@ -1,4 +1,4 @@
-**Name:****Name:** NALLA DEEPIKA
+**Name:** NALLA DEEPIKA
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS722
 **Domain:** Data Analytics
@@ -24,7 +24,7 @@ Test Preparation: Completed or not
 Scores: Math, Reading, Writing (0-100)
 
 ## Methodology:
--## Data Understanding:
+Data Understanding:
 Descriptive Statistics: Mean, median, range of scores.
 Data Exploration: Categories in gender, lunch type.
 
