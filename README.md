@@ -1,8 +1,8 @@
-**Name:** NALLA DEEPIKA
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS722
-**Domain:** Data Analytics
-**Duration:**August 2024 to September 2024
+** Name: ** NALLA DEEPIKA
+** Company: ** CODTECH IT SOLUTIONS
+** ID: ** CT08DS722
+** Domain: ** Data Analytics
+** Duration: **August 2024 to September 2024
 
 ## Overview of the Project
 
@@ -10,7 +10,7 @@
 
 ## Objective:
 Identify patterns in student performance based on:
-Gender: Performance differences between males and females.
+** Gender ** : Performance differences between males and females.
 Ethnic Group: Differences among groups A, B, C, etc.
 Parental Education: Impact of parental education levels.
 Lunch Type: Effect of free/reduced vs. standard lunch.
