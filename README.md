@@ -6,7 +6,7 @@
 
 **Domain** : Data Analytics
 
-**Duration** : ##August 2024 to September 2024
+**Duration** : August 2024 to September 2024
 
 ## Overview of the Project
 
