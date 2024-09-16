@@ -1,4 +1,4 @@
-**Name:** NALLA DEEPIKA
+## Name:## NALLA DEEPIKA
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS722
 **Domain:** Data Analytics
@@ -6,11 +6,11 @@
 
 ## Overview of the Project
 
-### Project : Exploratory Data Analysis on Student
+### Project : Exploratory Data Analysis on Students
 
 ## Objective:
 Identify patterns in student performance based on:
-** Gender ** : Performance differences between males and females.
+**Gender** : Performance differences between males and females.
 Ethnic Group: Differences among groups A, B, C, etc.
 Parental Education: Impact of parental education levels.
 Lunch Type: Effect of free/reduced vs. standard lunch.
