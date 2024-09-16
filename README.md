@@ -14,7 +14,7 @@
 
 ## Objective:
 Identify patterns in student performance based on:
-**Gender** : Performance differences between males and females.
+Gender: Performance differences between males and females.
 Ethnic Group: Differences among groups A, B, C, etc.
 Parental Education: Impact of parental education levels.
 Lunch Type: Effect of free/reduced vs. standard lunch.
@@ -28,29 +28,26 @@ Test Preparation: Completed or not
 Scores: Math, Reading, Writing (0-100)
 
 ## Methodology:
-Data Understanding:
+**Data Understanding:**
 Descriptive Statistics: Mean, median, range of scores.
 Data Exploration: Categories in gender, lunch type.
 
-## Data Cleaning:
+**Data Cleaning:**
 Handling Missing Data: Ensure completeness.
 Column Selection: Remove redundant columns.
 
-## Data Visualization:
+**Data Visualization:**
 Histograms & Box Plots: Score distributions.
 Correlation Analysis: Heatmap of relationships.
 Scatter Plots: Effects of gender, lunch type, test preparation.
 Pair Plots: Overall relationships among numeric variables.
 
 ### Technologies Used 
-- ## pandas:
-Data Manipulation: Load, clean, and process your data. Functions like read_csv(), dropna(), and groupby() will be helpful.
+**pandas:** Data Manipulation: Load, clean, and process your data. Functions like read_csv(), dropna(), and groupby() will be helpful.
 
-- ## seaborn:
-Data Visualization: Create attractive and informative statistical graphics. Use functions like sns.histplot(), sns.boxplot(), sns.heatmap(), and sns.pairplot().
+**seaborn:** Data Visualization: Create attractive and informative statistical graphics. Use functions like sns.histplot(), sns.boxplot(), sns.heatmap(), and sns.pairplot().
 
-- ## matplotlib:
-Plot Customization: Complement Seaborn with detailed customization. Use functions like plt.figure(), plt.plot(), and plt.show().
+**matplotlib:** Plot Customization: Complement Seaborn with detailed customization. Use functions like plt.figure(), plt.plot(), and plt.show().
 
 ### Key Insights:
 Gender Impact: Differences in math, reading, and writing scores based on gender.
